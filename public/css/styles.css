@@ -10894,6 +10894,12 @@ p.lead {
   font-size: 1.5rem;
 }
 
+.subheading .date {
+  font-size: smaller;
+  float: right;
+  text-transform: none;
+}
+
 #sideNav {
   padding-left: 1rem;
   padding-right: 1rem;
