@@ -9,7 +9,7 @@
     "appAssociation": "AUTO",
     "rewrites": [
       {
-        "source": "/go/**",
+        "source": "/to/**",
         "dynamicLinks": true
       }
     ]
