@@ -6,4 +6,4 @@ I have the privilege to work at the intersection of academia and industry with a
 
 🚀 𝗧𝗲𝗮𝗺 𝗹𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽: I hired more than 50 engineers into Cisco, across 3 engineering teams built from the ground up, and multiple disciplines: data engineering, machine learning, cloud, backend, and frontend.
 
-💡 𝗥&𝗗 𝗮𝗻𝗱 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻: 195+ granted patents (many more pending) in the area of machine learning, networking, cybersecurity and distributed systems. 
+💡 𝗥&𝗗 𝗮𝗻𝗱 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻: 200+ granted patents (some more pending) in the area of machine learning, networking, cybersecurity and distributed systems. 
