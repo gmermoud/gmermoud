@@ -1,4 +1,4 @@
-👋 Hello, I am Greg. I am a Professor at [HES-SO Valais](https://www.hevs.ch). 
+👋 Hello, I am Greg. I am a Professor of Computer Science at [HES-SO Valais](https://www.hevs.ch), with a strong focus on domain-informed machine learning and hybrid modelling methodologies.
 
 I have the privilege to work at the intersection of academia and industry with a mission to bring robust and reliable AI/ML solutions to the real world, with a focus on increasing resilience and tackling complexity of systems and environments. 
 
