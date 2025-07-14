@@ -1,4 +1,4 @@
-👋 Hello, I am Greg. I am a Professor of Computer Science at [HES-SO Valais](https://www.hevs.ch) and Director of the [Scientific & Industrial Machine Learning Laboratory (SIMLab)](https://github.com/hybrid-ai-lab). My focus is on robust machine learning and the intersection of AI and simulation.
+👋 Hello, I am Greg. I am a Professor of Computer Science at [HES-SO Valais](https://www.hevs.ch) and Director of the [Science & Industry Machine Learning Laboratory (SIMLab)](https://github.com/hybrid-ai-lab). My focus is on robust machine learning and the intersection of AI and simulation.
 
 I have the privilege to work at the intersection of academia and industry with a mission to bring robust and reliable AI/ML solutions to the real world, with a focus on increasing resilience and tackling complexity of systems and environments. 
 
